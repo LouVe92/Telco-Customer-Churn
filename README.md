@@ -4,7 +4,9 @@
 Project ini merupakan project Data Science pertama yang saya post ke Github, yang meliputi Data Cleaning dan Exploratory Data Analysis, termasuk Statistical Summary, Univariate Analysis dan Bivariate/Multivariate Analysis, serta Deep Dive Question menggunakan bahasa pemograman Python.
 
 ### **File Description**
-Selain README file, terdapat hanya 1 file lain di dalam repository, yaitu file notebook yang dapat dijalankan dengan menggunakan Google Colab. File tersebut berisikan step-by-step yang dilakukan, coding, beserta observation ataupun interpretasi yang didapatkan.
+Selain README file, terdapat hanya 2 file lain di dalam repository, yaitu:
+1. File notebook yang dapat dijalankan dengan menggunakan Google Colab. File tersebut berisikan step-by-step yang dilakukan, coding, beserta observation ataupun interpretasi yang didapatkan
+2. File pdf yang berisikan summary atas project yang dilakukan, sehingga dapat lebih mudah untuk memahami project tanpa melihat secara detail
 
 
 ### **Business Understanding**
